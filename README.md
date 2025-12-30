@@ -1,5 +1,5 @@
 # IMS566-PAIRING-PROJECT
-GitHub Pages live link: https://humairahadi.github.io/blood-tracker-system/
+GitHub Pages link: https://humairahadi.github.io/blood-tracker-system/
 GitHub repository link: https://github.com/humairahadi/blood-tracker-system.git
 
 ## Project Description
